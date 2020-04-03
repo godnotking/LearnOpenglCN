@@ -24,6 +24,9 @@
     <ClCompile Include="stbimage.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="camera.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader.h">
@@ -46,6 +49,9 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="container.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="awesomeface.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
